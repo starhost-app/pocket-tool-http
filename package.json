@@ -22,15 +22,18 @@
     "@supabase/supabase-js": "^2.108.2",
     "chrono-node": "^2.9.1",
     "hono": "^4.12.27",
+    "https-proxy-agent": "^9.1.0",
     "i18next": "^26.3.2",
     "i18next-fs-backend": "^2.6.6",
     "linkdave": "^0.2.3",
     "luxon": "^3.7.2",
     "mathjs": "^15.2.0",
     "node-cron": "^4.5.0",
+    "node-fetch": "^3.3.2",
     "openai": "^6.44.0",
     "redis": "^6.0.0",
     "sharp": "^0.35.2",
+    "socks-proxy-agent": "^10.1.0",
     "tweetnacl": "^1.0.3"
   }
 }
